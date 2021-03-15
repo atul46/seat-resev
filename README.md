@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# movie-ticket
+
+# seat-resev
 An app which helps to book ticket optimally
 
 
@@ -28,6 +28,4 @@ An app which helps to book ticket optimally
     Now, you can start accessing the API's.
     prerequisite is that it needs mysql database.
          
-=======
-# seat-resev
->>>>>>> 79d858ee8bf09eb9e9c1a4f9a0cf77d322b514bc
+
